@@ -1,0 +1,6 @@
+@ativ1_HostAddress = http://localhost:5115
+
+GET {{ativ1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
